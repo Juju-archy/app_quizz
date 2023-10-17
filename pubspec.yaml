@@ -59,7 +59,22 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
+  assets:
+  - quizz assets/belgique.JPG
+  - quizz assets/buche.jpg
+  - quizz assets/commodore.jpg
+  - quizz assets/cover.jpg
+  - quizz assets/eagle.jpg
+  - quizz assets/faux.jpg
+  - quizz assets/lune.jpg
+  - quizz assets/nyctalope.jpg
+  - quizz assets/pharaon.jpg
+  - quizz assets/pirate.png
+  - quizz assets/russie.jpg
+  - quizz assets/tintin.jpg
+  - quizz assets/vrai.jpg
+
+
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
